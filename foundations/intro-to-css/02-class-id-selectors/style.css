@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(240, 152, 152);
+    font-family: verdana, 'Dejavu Sans, 'sans-serif;
+}
+.font {
+    font-size: 24px;
+}
+#kedua {
+    color: rgb(0, 0, 172);
+    font-size: 36px;
+}
+#empat {
+    background-color: rgb(102, 255, 42);
+    font-weight: bold;
+}
